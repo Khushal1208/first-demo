@@ -1,4 +1,6 @@
 # first-demo
-this is my first repository
-author-khushal parmar
+this is my first repository.
+<br>
+author-khushal parmar.
+<br>
 do changes
